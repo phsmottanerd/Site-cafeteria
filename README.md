@@ -16,3 +16,9 @@ Tecnologias Usadas:
 
 💻 HTML5 – Estrutura e semântica sólida.
 🎨 CSS3 – Estilo e design modernos, com animações e transições fluidas.
+
+🔧 Ferramentas e Tecnologias Usadas:
+
+Editor: Visual Studio Code (VS Code)
+Frameworks: HTML5, CSS3
+Imagens: Alta qualidade, otimizadas para um visual incrível.
